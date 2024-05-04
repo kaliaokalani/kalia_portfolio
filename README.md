@@ -1,2 +1,2 @@
-# kalia_portfolio
+# kaliaokalani.github.io
 Data Science Portfolio
